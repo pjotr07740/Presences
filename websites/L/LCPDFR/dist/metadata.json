@@ -1,0 +1,19 @@
+{
+    "$schema": "https://schemas.premid.app/metadata/1.0",
+    "author": {
+      "name": "Pjotr",
+      "id": "662014520943706133"
+    },
+    "service": "LCPDFR",
+    "description": {
+      "en": "LCPDFR also known as LSPDFR is a website where you can download police modifications for Grand Theft Auto V and Grand Theft Auto IV"
+    },
+    "url": ["lcpdfr.com", "lspdfr.com"],
+    "version": "1.0.0",
+    "logo": "https://imgvol.cdn.lcpdfr.com/screenshots/monthly_2019_02/frlogo.png.4027faac813ec4b7da555ea910fd5bda.png",
+    "thumbnail": "https://imgvol.cdn.lcpdfr.com/screenshots/monthly_2019_02/1953995722_GrandTheftAutoVScreenshot2018_02_02-01_24_43_83.png.2daaceca37c4e2c48968495c5188dbd6.png",
+    "color": "#0453f3",
+    "tags": ["gta", "gtav", "gtaiv", "police"],
+    "category": "games",
+    "regExp": "([a-z0-9-]+[.])*lcpdfr[.]com[/]"
+  }
